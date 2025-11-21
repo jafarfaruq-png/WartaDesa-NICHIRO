@@ -1,5 +1,6 @@
 <?php
-$token = "UjVocxx7G7TeVQb91xU8";
+//daftar fonte dulu, lalu ambil tokennya
+$token = "ISI_TOKEN_DISINI";
 
 
 //fungsi kirim pesan
