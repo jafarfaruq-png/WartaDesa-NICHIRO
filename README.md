@@ -76,7 +76,7 @@ Aplikasi ini dilindungi oleh:
 ### **Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta**
 
 DILARANG KERAS:
-- Mengopi ulang
+- Mengcopy ulang
 - Memperjualbelikan
 - Mendistribusikan ulang
 - Mengubah sebagian/seluruh source code
