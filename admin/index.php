@@ -1,6 +1,6 @@
 <?php
 
-require_once("../../../config/konekW.php");
+require_once("konek.php");
 
 //cek cookie
 if (filter_has_var(INPUT_COOKIE, 'WD')) {
