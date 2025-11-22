@@ -26,6 +26,10 @@ Setelah mengunduh source code dari repository ini, silakan ikuti langkah berikut
 ### 4. **Login ke Sistem**
 Aplikasi menggunakan OTP WhatsApp:
 
+Untuk mengirim notifikasi via WhatsApp:
+
+- Buka: admin/pages/function.php
+- Ganti token WA Gateway dengan token akun Anda     (daftar di **Fonnte**)
 - Nomor login contoh: 0812345678
 - OTP bisa dilihat langsung melalui phpMyAdmin:
 - Buka tabel: WDuser -> column Kode
@@ -34,9 +38,7 @@ Aplikasi menggunakan OTP WhatsApp:
 ### 5. **Pengujian Notifikasi (WA Gateway)**
 Untuk mengirim notifikasi via WhatsApp:
 
-1. Buka: admin/pages/function.php
-2. Ganti token WA Gateway dengan token akun Anda (daftar di **Fonnte** atau layanan sejenis).
-3. Untuk mengirim notifikasi:
+1. Untuk mengirim notifikasi:
    - Masuk menu **Pengumuman**
    - Buat pengumuman baru
    - Akan muncul ikon **pesawat kertas (send)** untuk mengirim WA.
@@ -60,9 +62,6 @@ Versi APK Android dapat diunduh melalui link berikut:
 - Aplikasi Android sinkronisasi API
 - Sistem token WA Gateway
 - Full PHP Native + MySQL (tanpa framework)
-
----
-
 
 ---
 
