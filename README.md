@@ -1,6 +1,6 @@
 # WartaDesa — NICHIRO SMKN KABUH
 
-WartaDesa adalah aplikasi berbasis **Website + Android** untuk digitalisasi informasi desa, pengumuman, dan layanan masyarakat. Proyek ini dikembangkan oleh **TIM NICHIRO SMKN KABUH** untuk lomba Pemuda Pelopor 2025 bidang Inovasi Teknologi.
+WartaDesa adalah aplikasi berbasis **Website + Android** untuk digitalisasi informasi desa, pengumuman, dan layanan masyarakat. Proyek ini dikembangkan oleh **TIM NICHIRO SMKN KABUH** untuk lomba JYCC.
 
 ---
 
